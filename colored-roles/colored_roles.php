@@ -24,11 +24,6 @@
 .role_banned{
     color: black;
 }
-
-
-.codo_username: jullegulle2000{
-    color: Maroon;
-}
 </style>
 </head>
 </html>
