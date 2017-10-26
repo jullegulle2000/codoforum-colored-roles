@@ -9,10 +9,6 @@
     color: red;
 }
 
-.role_admin{
-    color: red;
-}
-
 .role_Owner{
     color: Maroon;
 }
